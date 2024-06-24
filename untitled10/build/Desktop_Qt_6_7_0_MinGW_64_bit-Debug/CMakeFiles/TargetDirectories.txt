@@ -1,0 +1,6 @@
+C:/Users/admin/Downloads/Advanced-Tic-Tac-Toe-main/Advanced-Tic-Tac-Toe-main/untitled10/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/tst.dir
+C:/Users/admin/Downloads/Advanced-Tic-Tac-Toe-main/Advanced-Tic-Tac-Toe-main/untitled10/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/test.dir
+C:/Users/admin/Downloads/Advanced-Tic-Tac-Toe-main/Advanced-Tic-Tac-Toe-main/untitled10/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/admin/Downloads/Advanced-Tic-Tac-Toe-main/Advanced-Tic-Tac-Toe-main/untitled10/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/admin/Downloads/Advanced-Tic-Tac-Toe-main/Advanced-Tic-Tac-Toe-main/untitled10/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/tst_autogen_timestamp_deps.dir
+C:/Users/admin/Downloads/Advanced-Tic-Tac-Toe-main/Advanced-Tic-Tac-Toe-main/untitled10/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/tst_autogen.dir

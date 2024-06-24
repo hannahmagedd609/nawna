@@ -1,0 +1,8 @@
+# ninja log v5
+2	3980	7409452654464828	tst_autogen/timestamp	c710557c486bce17
+2	3980	7409452654464828	tst_autogen/mocs_compilation.cpp	c710557c486bce17
+2	3980	7409452654464828	C:/Users/admin/Downloads/Advanced-Tic-Tac-Toe-main/Advanced-Tic-Tac-Toe-main/untitled10/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/tst_autogen/timestamp	c710557c486bce17
+2	3980	7409452654464828	C:/Users/admin/Downloads/Advanced-Tic-Tac-Toe-main/Advanced-Tic-Tac-Toe-main/untitled10/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/tst_autogen/mocs_compilation.cpp	c710557c486bce17
+3980	5518	7409452674549293	CMakeFiles/tst.dir/tst_autogen/mocs_compilation.cpp.obj	b872e55895318eb5
+4392	10383	7409452723108778	CMakeFiles/tst.dir/tst_tst.cpp.obj	925b4a7ed8938b99
+10387	12214	7409452741414503	tst.exe	b26d0f341c962d17

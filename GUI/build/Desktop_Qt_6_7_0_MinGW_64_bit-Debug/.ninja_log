@@ -1,0 +1,17 @@
+# ninja log v5
+2	4682	7409328144391668	untitled4_autogen/timestamp	de924becb842ab8
+2	4682	7409328144391668	untitled4_autogen/mocs_compilation.cpp	de924becb842ab8
+2	4682	7409328144391668	C:/Users/admin/Downloads/Advanced-Tic-Tac-Toe-main/Advanced-Tic-Tac-Toe-main/GUI/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled4_autogen/timestamp	de924becb842ab8
+2	4682	7409328144391668	C:/Users/admin/Downloads/Advanced-Tic-Tac-Toe-main/Advanced-Tic-Tac-Toe-main/GUI/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/untitled4_autogen/mocs_compilation.cpp	de924becb842ab8
+4683	12112	7409328222410772	CMakeFiles/untitled4.dir/untitled4_autogen/mocs_compilation.cpp.obj	f787f4c64f5ce327
+4952	13062	7409328231900400	CMakeFiles/untitled4.dir/login.cpp.obj	7e08569a25c97219
+6089	13296	7409328234356801	CMakeFiles/untitled4.dir/xoplayer.cpp.obj	21346e818d7ef8dc
+5187	13462	7409328235937690	CMakeFiles/untitled4.dir/main.cpp.obj	2cb557d95913d1ef
+6579	15137	7409328252609335	CMakeFiles/untitled4.dir/medium.cpp.obj	2d46075030ed61a2
+5383	16799	7409328269295370	CMakeFiles/untitled4.dir/mainwindow.cpp.obj	bda5328393f774ef
+5834	17345	7409328274780082	CMakeFiles/untitled4.dir/dialog.cpp.obj	1c98c44d7f2f50c1
+6845	18367	7409328285027645	CMakeFiles/untitled4.dir/gameboard.cpp.obj	111d07850774415f
+6281	18941	7409328290770920	CMakeFiles/untitled4.dir/twoplayer.cpp.obj	f6a95f7f117aef29
+7147	21392	7409328315254814	CMakeFiles/untitled4.dir/hard1.cpp.obj	b2fd2764ef2486c0
+12119	21985	7409328321242109	CMakeFiles/untitled4.dir/aihard.cpp.obj	8608c180ce944734
+21986	24159	7409328342880558	untitled4.exe	d0f041e3773246a2
